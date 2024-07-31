@@ -11,7 +11,7 @@
 <p align="center" >
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
  </p>
- <img  height="280rem" alt="GIF" src="[https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://github.com/Cuco89/Cuco89/blob/main/cUcOCODE.gif)" />
+ <img  height="280rem" alt="GIF" src="[[https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://github.com/Cuco89/Cuco89/blob/main/cUcOCODE.gif](https://github.com/Cuco89/Cuco89/blob/main/beavis-computer.gif))" />
  </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif](https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width="25">  <b>About Me</b>
