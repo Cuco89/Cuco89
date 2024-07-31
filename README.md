@@ -11,8 +11,7 @@
 <p align="center" >
  <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
  </p>
- <img  height="280rem" alt="GIF" src="[[https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://github.com/Cuco89/Cuco89/blob/main/cUcOCODE.gif](https://github.com/Cuco89/Cuco89/blob/main/beavis-computer.gif))" />
- </p>
+
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif](https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width="25">  <b>About Me</b>
 Hello, I'm Mariano, a Web Development student and passionate biologist. I love learning languages, and although I'm new to programming, I'm eager to learn and grow in this field. I'm constantly exploring new technologies and embracing the challenges that come with software development. I focus on collaboration and community support, aiming to inspire others to push their boundaries and achieve great things. Let's create innovative solutions together!
