@@ -32,6 +32,11 @@ Hello, I'm Mariano, a Web Development student and passionate biologist. I love l
 
 📚 For a long time, I've been a teacher, and that never fades—I will always be one. This is why I'll be sharing my learning journey and creating new exercises for students like me to learn from. I might make some mistakes, but that's all part of the process!
 
+      ## More about me
+      - **🌊 Marine Biologist turned Web Developer**: I have a background in marine biology, but my passion for technology led me to pursue a career in web     
+             development.
+      - **🏊‍♂️ Diving Enthusiast**: I love scuba diving and exploring the underwater world.
+      - **🎮 Gaming Fan**: Video games are one of my favorite pastimes.
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://media1.tenor.com/m/nPxAn9NBqfIAAAAC/beavis-computer.gif" width='50'> <b>Connect with Me</b>
