@@ -376,7 +376,9 @@ Hello, I'm Mariano, a Web Development student and passionate biologist. I love l
 <br>
 
 #### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
-
+<p align="center">
+  <img alt="GIF" src="https://github.com/Cuco89/Cuco89/raw/main/beavis-computer.gif" />
+</p>
 
 -----
 Credits: [Al-Amin](https://github.com/alamin-babu)
