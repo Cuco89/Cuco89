@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=alamin-babu&style=flat&color=blue)
 
 <h1 align="center">Hi!,  I'm Cuco89 <img src=
-"![cUcOCODE](https://github.com/user-attachments/assets/f7d31461-f345-49ad-afac-69fa522d6e7e)
-" width="35"></h1>
+"[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://www.canva.com/design/DAGMi2mPwAY/Qlz4hYXYCgxJswMCmhfBzg/watch?utm_content=DAGMi2mPwAY&utm_campaign=designshare&utm_medium=link&utm_source=editor)" width="35"></h1>
 
 <div align="center" style="border: px solid #000000;>
 
@@ -28,6 +27,8 @@ Hello, I'm Mariano, a Web Development student and passionate biologist. I love l
 💬 Ask me about anything; I'm happy to help, as long as it's within my expertise! 😉
 
 🚀 I'm highly motivated and always eager to learn and collaborate. I'm actively seeking opportunities to grow and expand my skills.
+
+📚 For a long time, I've been a teacher, and that never fades—I will always be one. This is why I'll be sharing my learning journey and creating new exercises for students like me to learn from. I might make some mistakes, but that's all part of the process!
 
 <br>
 
