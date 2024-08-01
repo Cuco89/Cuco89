@@ -39,6 +39,13 @@ Hello, I'm Mariano, a Web Development student and passionate biologist. I love l
       - **🎮 Gaming Fan**: Video games are one of my favorite pastimes.
 <br>
 
+**Languages I speak**:
+
+- 🇪🇸 **Spanish**: 🐂
+- 🇬🇧 **English**: 🏰
+- 🇵🇱 **Polish**: 🥟
+- 🇮🇹 **Italian**: 🍕
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://media1.tenor.com/m/nPxAn9NBqfIAAAAC/beavis-computer.gif" width='50'> <b>Connect with Me</b>
 
  
