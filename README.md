@@ -386,6 +386,4 @@ Hello, I'm Mariano, a Web Development student and passionate biologist. I love l
 </p>
 
 -----
-Credits: [Al-Amin](https://github.com/alamin-babu)
 
-Last Edited on: 04/07/2024
