@@ -19,7 +19,7 @@ Hello, I'm Maniek, a Web Development student and passionate biologist. I love le
 <br>
 
 **Technologies & Tools:**  
-Java, Python, JavaScript, React, Next.js, FastAPI, HTML, CSS, MySQL, PHP, Git, APIs, Microservices, SpringBoot, LangChain, LangGraph
+Java, Python, JavaScript, React, Next.js, FastAPI, HTML, CSS, MySQL, PHP, Git, APIs, Microservices, SpringBoot, n8n, LangChain, LangGraph
 
   
 
