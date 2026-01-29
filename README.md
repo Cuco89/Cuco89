@@ -18,6 +18,9 @@ Hello, I'm Mariano, a Web Development student and passionate biologist. I love l
 
 <br>
 
+**Technologies & Tools:**  
+Java, Python, JavaScript, React, Next.js, FastAPI, HTML, CSS, MySQL, PHP, Git, APIs, Microservices, SpringBoot, LangChain, LangGraph
+
   
 
 🔭 I’m currently working on something cool 😉
@@ -31,6 +34,13 @@ Hello, I'm Mariano, a Web Development student and passionate biologist. I love l
 🚀 I'm highly motivated and always eager to learn and collaborate. I'm actively seeking opportunities to grow and expand my skills.
 
 📚 For a long time, I've been a teacher, and that never fades—I will always be one. This is why I'll be sharing my learning journey and creating new exercises for students like me to learn from. I might make some mistakes, but that's all part of the process!
+
+I’m eager to collaborate on projects involving:
+
+- **AI Agents & Automation**
+- **Frontend & Backend Development**
+- **Web Applications integrating AI workflows**
+
 
       ## More about me
       - **🌊 Marine Biologist turned Web Developer**: I have a background in marine biology, but my passion for technology led me to pursue a career in web     
@@ -64,7 +74,7 @@ Hello, I'm Mariano, a Web Development student and passionate biologist. I love l
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://twitter.com/">
+ <a href="[https://twitter.com/](https://x.com/Cuzco_wiskiSS)">
  <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
 
@@ -72,7 +82,7 @@ Hello, I'm Mariano, a Web Development student and passionate biologist. I love l
  <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
 
- <a href="https://t.me/alamin2me">
+ <a href="https://t.me/Maniek_SS">
  <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
  </a>
 
