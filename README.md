@@ -69,12 +69,12 @@ I’m eager to collaborate on projects involving:
  <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
 
- <a href="https://www.linkedin.com/in/alamin20/">
+ <a href="https://www.linkedin.com/in/mariano-s%C3%A1ez-soriano-6a7910117/">
  
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="[https://twitter.com/](https://x.com/Cuzco_wiskiSS)">
+ <a href="https://x.com/Cuzco_wiskiSS">
  <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
 
@@ -86,10 +86,10 @@ I’m eager to collaborate on projects involving:
  <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
  </a>
 
- <a href="https://discord.com/invite/5RmW6dZKpe6">
+ <a href="https://discord.com/invite/5RmW6dZKpe699999">
  <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
  </a>
- <a href="mailto:alamin.contact24@gmail.com">
+ <a href="mailto:mariano.saezsoriano@gmail.com">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
