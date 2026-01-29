@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=alamin-babu&style=flat&color=blue)
 
-<h1 align="center">Hi!, I'm Cuco89 <img src=
+<h1 align="center">Hi!, I'm Maniek <img src=
 "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
@@ -14,7 +14,7 @@
 
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif](https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif" width="25">  <b>About Me</b>
-Hello, I'm Mariano, a Web Development student and passionate biologist. I love learning languages, and although I'm new to programming, I'm eager to learn and grow in this field. I'm constantly exploring new technologies and embracing the challenges that come with software development. I focus on collaboration and community support, aiming to inspire others to push their boundaries and achieve great things. Let's create innovative solutions together!
+Hello, I'm Maniek, a Web Development student and passionate biologist. I love learning languages, and although I'm new to programming, I'm eager to learn and grow in this field. I'm constantly exploring new technologies and embracing the challenges that come with software development. I focus on collaboration and community support, aiming to inspire others to push their boundaries and achieve great things. Let's create innovative solutions together!
 
 <br>
 
